@@ -2,6 +2,10 @@ V2ray Subscription (Multi Location)
 Locations: 🇺🇸 🇬🇧 🇩🇪 🇫🇷 🇨🇦 🇪🇸 🇮🇹 🇮🇪 🇸🇪 🇦🇺 🇦🇹 🇦🇪 🇮🇩 🇸🇬 🇮🇱
 
 🇺🇸 United States of America:
+vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@104.17.171.85:8443?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%201
+vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@198.41.209.217:8443?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%202
+vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@104.18.33.56:443?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%203
+vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@104.17.174.135:2053?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%204
 
 🇬🇧 United Kingdom of Great Britain:
 
