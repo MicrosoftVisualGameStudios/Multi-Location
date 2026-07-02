@@ -1,5 +1,5 @@
 V2ray Subscription (Multi Location)
-Locations: 🇺🇸 🇬🇧 🇩🇪 🇫🇷 🇫🇮 🇳🇱 🇨🇦 🇪🇸 🇮🇹 🇮🇪 🇸🇪 🇦🇺 🇦🇹 🇦🇪 🇮🇩 🇸🇬 🇮🇱
+Locations: 🇺🇸 🇬🇧 🇩🇪 🇫🇷 🇫🇮 🇳🇱 🇨🇦 🇦🇺 🇪🇸 🇮🇹 🇸🇪 🇦🇹 🇮🇪 🇦🇪 🇮🇩 🇸🇬 🇮🇱
 
 🇺🇸 United States of America:
 
@@ -66,18 +66,26 @@ vless://309dbfae-4782-4069-8a6a-8de72c225542@108.162.198.145:2087?encryption=non
 vless://309dbfae-4782-4069-8a6a-8de72c225542@104.17.25.201:2096?encryption=none&security=tls&sni=comet-bridge.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-bridge.hidden-ocean.workers.dev&path=%2Fproxyip%3D188.166.61.121#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%206
 
 🇨🇦 Canada:
+vless://968343ab-bc8e-439b-8ebe-06d941e9410c@198.41.209.121:2096?encryption=none&security=tls&sni=ancient-desert.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ancient-desert.crystal-stone.workers.dev&path=%2Fproxyip%3D155.138.128.135#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%201
+vless://968343ab-bc8e-439b-8ebe-06d941e9410c@104.17.111.12:443?encryption=none&security=tls&sni=ancient-desert.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ancient-desert.crystal-stone.workers.dev&path=%2Fproxyip%3D155.138.128.135#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%202
+vless://968343ab-bc8e-439b-8ebe-06d941e9410c@104.17.26.137:8443?encryption=none&security=tls&sni=ancient-desert.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ancient-desert.crystal-stone.workers.dev&path=%2Fproxyip%3D155.138.128.135#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%203
+vless://968343ab-bc8e-439b-8ebe-06d941e9410c@173.245.59.173:2087?encryption=none&security=tls&sni=ancient-desert.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ancient-desert.crystal-stone.workers.dev&path=%2Fproxyip%3D155.138.128.135#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%204
+
+🇦🇺 Australia:
+vless://d8194017-d937-4dab-8b5a-4c1bb0a56221@104.17.107.194:2096?encryption=none&security=tls&sni=mango-wave.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mango-wave.crystal-stone.workers.dev&path=%2Fproxyip%3D170.64.232.210#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Sydney%201
+vless://d8194017-d937-4dab-8b5a-4c1bb0a56221@104.16.156.239:2087?encryption=none&security=tls&sni=mango-wave.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mango-wave.crystal-stone.workers.dev&path=%2Fproxyip%3D170.64.232.210#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Sydney%202
+vless://d8194017-d937-4dab-8b5a-4c1bb0a56221@104.17.97.101:2087?encryption=none&security=tls&sni=mango-wave.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mango-wave.crystal-stone.workers.dev&path=%2Fproxyip%3D170.64.232.210#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Sydney%203
+vless://d8194017-d937-4dab-8b5a-4c1bb0a56221@104.16.249.247:8443?encryption=none&security=tls&sni=mango-wave.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mango-wave.crystal-stone.workers.dev&path=%2Fproxyip%3D170.64.232.210#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Sydney%204
 
 🇪🇸 Spain:
 
 🇮🇹 Italy:
 
-🇮🇪 Ireland:
-
 🇸🇪 Sweden:
 
-🇦🇺 Australia:
-
 🇦🇹 Austria:
+
+🇮🇪 Ireland:
 
 🇦🇪 United Arab Emirates:
 
