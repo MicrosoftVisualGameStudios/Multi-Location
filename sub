@@ -1,5 +1,5 @@
 V2ray Subscription (Multi Location)
-Locations: 🇺🇸 🇬🇧 🇩🇪 🇫🇷 🇨🇦 🇪🇸 🇮🇹 🇮🇪 🇸🇪 🇦🇺 🇦🇹 🇦🇪 🇮🇩 🇸🇬 🇮🇱
+Locations: 🇺🇸 🇬🇧 🇩🇪 🇫🇷 🇫🇮 🇳🇱 🇨🇦 🇪🇸 🇮🇹 🇮🇪 🇸🇪 🇦🇺 🇦🇹 🇦🇪 🇮🇩 🇸🇬 🇮🇱
 
 🇺🇸 United States of America:
 vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@104.17.171.85:8443?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%201
@@ -38,6 +38,22 @@ vless://86b3632b-c179-47de-8678-c347fae439eb@104.18.33.234:2087?encryption=none&
 vless://86b3632b-c179-47de-8678-c347fae439eb@104.19.35.204:443?encryption=none&security=tls&sni=comet-cloud.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-cloud.crystal-stone.workers.dev&path=%2Fproxyip%3D134.209.19.200#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%204
 vless://86b3632b-c179-47de-8678-c347fae439eb@8.35.211.213:8443?encryption=none&security=tls&sni=comet-cloud.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-cloud.crystal-stone.workers.dev&path=%2Fproxyip%3D134.209.19.200#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%205
 vless://86b3632b-c179-47de-8678-c347fae439eb@104.17.219.189:2096?encryption=none&security=tls&sni=comet-cloud.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-cloud.crystal-stone.workers.dev&path=%2Fproxyip%3D134.209.19.200#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%206
+
+🇫🇮 Finland:
+vless://fd3adb92-67d4-4a64-814a-f3adde22faae@104.18.33.27:2083?encryption=none&security=tls&sni=falcon-garden.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=falcon-garden.hidden-ocean.workers.dev&path=%2Fproxyip%3D178.17.60.176#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%201
+vless://fd3adb92-67d4-4a64-814a-f3adde22faae@104.17.145.120:443?encryption=none&security=tls&sni=falcon-garden.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=falcon-garden.hidden-ocean.workers.dev&path=%2Fproxyip%3D178.17.60.176#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%202
+vless://fd3adb92-67d4-4a64-814a-f3adde22faae@173.245.59.93:2096?encryption=none&security=tls&sni=falcon-garden.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=falcon-garden.hidden-ocean.workers.dev&path=%2Fproxyip%3D178.17.60.176#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%203
+vless://fd3adb92-67d4-4a64-814a-f3adde22faae@104.18.33.139:8443?encryption=none&security=tls&sni=falcon-garden.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=falcon-garden.hidden-ocean.workers.dev&path=%2Fproxyip%3D178.17.60.176#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%204
+vless://fd3adb92-67d4-4a64-814a-f3adde22faae@162.159.38.124:8443?encryption=none&security=tls&sni=falcon-garden.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=falcon-garden.hidden-ocean.workers.dev&path=%2Fproxyip%3D178.17.60.176#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%205
+vless://fd3adb92-67d4-4a64-814a-f3adde22faae@104.17.61.159:2083?encryption=none&security=tls&sni=falcon-garden.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=falcon-garden.hidden-ocean.workers.dev&path=%2Fproxyip%3D178.17.60.176#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%206
+
+🇳🇱 Netherlands:
+vless://309dbfae-4782-4069-8a6a-8de72c225542@173.245.58.67:2096?encryption=none&security=tls&sni=comet-bridge.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-bridge.hidden-ocean.workers.dev&path=%2Fproxyip%3D188.166.61.121#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%201
+vless://309dbfae-4782-4069-8a6a-8de72c225542@104.16.248.62:8443?encryption=none&security=tls&sni=comet-bridge.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-bridge.hidden-ocean.workers.dev&path=%2Fproxyip%3D188.166.61.121#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%202
+vless://309dbfae-4782-4069-8a6a-8de72c225542@104.17.211.117:2096?encryption=none&security=tls&sni=comet-bridge.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-bridge.hidden-ocean.workers.dev&path=%2Fproxyip%3D188.166.61.121#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%203
+vless://309dbfae-4782-4069-8a6a-8de72c225542@173.245.59.112:2096?encryption=none&security=tls&sni=comet-bridge.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-bridge.hidden-ocean.workers.dev&path=%2Fproxyip%3D188.166.61.121#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%204
+vless://309dbfae-4782-4069-8a6a-8de72c225542@108.162.198.145:2087?encryption=none&security=tls&sni=comet-bridge.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-bridge.hidden-ocean.workers.dev&path=%2Fproxyip%3D188.166.61.121#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%205
+vless://309dbfae-4782-4069-8a6a-8de72c225542@104.17.25.201:2096?encryption=none&security=tls&sni=comet-bridge.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-bridge.hidden-ocean.workers.dev&path=%2Fproxyip%3D188.166.61.121#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%206
 
 🇨🇦 Canada:
 
