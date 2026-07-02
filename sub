@@ -2,14 +2,24 @@ V2ray Subscription (Multi Location)
 Locations: 🇺🇸 🇬🇧 🇩🇪 🇫🇷 🇫🇮 🇳🇱 🇨🇦 🇪🇸 🇮🇹 🇮🇪 🇸🇪 🇦🇺 🇦🇹 🇦🇪 🇮🇩 🇸🇬 🇮🇱
 
 🇺🇸 United States of America:
+
+(California - Los Angeles)
 vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@104.17.171.85:8443?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%201
 vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@198.41.209.217:8443?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%202
 vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@104.18.33.56:443?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%203
 vless://9e951fb7-3606-49bb-8593-8b80e8eafec1@104.17.174.135:2053?encryption=none&security=tls&sni=vivid-forest.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vivid-forest.hidden-ocean.workers.dev&path=%2Fproxyip%3D207.246.97.245#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%204
+
+(Illinois - Chicago)
 vless://763f6378-2ecc-43fc-803e-ce8e9b7ec978@104.16.247.155:2083?encryption=none&security=tls&sni=misty-horizon.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=misty-horizon.crystal-stone.workers.dev&path=%2Fproxyip%3D172.234.24.35#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%201
 vless://763f6378-2ecc-43fc-803e-ce8e9b7ec978@104.17.127.89:2096?encryption=none&security=tls&sni=misty-horizon.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=misty-horizon.crystal-stone.workers.dev&path=%2Fproxyip%3D172.234.24.35#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%202
 vless://763f6378-2ecc-43fc-803e-ce8e9b7ec978@198.41.223.211:2096?encryption=none&security=tls&sni=misty-horizon.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=misty-horizon.crystal-stone.workers.dev&path=%2Fproxyip%3D172.234.24.35#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%203
 vless://763f6378-2ecc-43fc-803e-ce8e9b7ec978@198.41.208.165:2087?encryption=none&security=tls&sni=misty-horizon.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=misty-horizon.crystal-stone.workers.dev&path=%2Fproxyip%3D172.234.24.35#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Chicago%204
+
+(Virginia - Ashburn)
+vless://48ace618-78ea-4a01-863e-a6fc2dee287f@8.35.211.69:2053?encryption=none&security=tls&sni=sunny-cloud.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sunny-cloud.hidden-ocean.workers.dev&path=%2Fproxyip%3D141.148.93.235#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%201
+vless://48ace618-78ea-4a01-863e-a6fc2dee287f@104.16.149.203:2087?encryption=none&security=tls&sni=sunny-cloud.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sunny-cloud.hidden-ocean.workers.dev&path=%2Fproxyip%3D141.148.93.235#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%202
+vless://48ace618-78ea-4a01-863e-a6fc2dee287f@104.18.33.245:443?encryption=none&security=tls&sni=sunny-cloud.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sunny-cloud.hidden-ocean.workers.dev&path=%2Fproxyip%3D141.148.93.235#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%203
+vless://48ace618-78ea-4a01-863e-a6fc2dee287f@162.159.42.113:2083?encryption=none&security=tls&sni=sunny-cloud.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sunny-cloud.hidden-ocean.workers.dev&path=%2Fproxyip%3D141.148.93.235#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Ashburn%204
 
 🇬🇧 United Kingdom of Great Britain:
 vless://7e4c56f8-25d2-4664-85d8-ea99199c9903@104.17.183.155:2083?encryption=none&security=tls&sni=mango-core.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mango-core.crystal-stone.workers.dev&path=%2Fproxyip%3D178.62.111.180#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%201
