@@ -148,11 +148,14 @@ vless://24881adb-0927-4f90-8b85-9cfd61a16a49@172.67.78.142:443?encryption=none&s
 vless://24881adb-0927-4f90-8b85-9cfd61a16a49@104.17.108.179:443?encryption=none&security=tls&sni=atlas-garden.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=atlas-garden.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D176.97.66.175#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%203
 vless://24881adb-0927-4f90-8b85-9cfd61a16a49@104.17.52.8:2096?encryption=none&security=tls&sni=atlas-garden.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=atlas-garden.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D176.97.66.175#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%204
 
+🇮🇱 Israel:
+vless://73ab00cc-ac90-40b2-8d32-1e1a82760296@104.17.123.78:443?encryption=none&security=tls&sni=swift-stack.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=swift-stack.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D45.150.108.59#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20-%20Tel%20Aviv%201
+vless://73ab00cc-ac90-40b2-8d32-1e1a82760296@104.19.145.210:443?encryption=none&security=tls&sni=swift-stack.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=swift-stack.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D45.150.108.59#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20-%20Tel%20Aviv%202
+vless://73ab00cc-ac90-40b2-8d32-1e1a82760296@104.17.167.158:443?encryption=none&security=tls&sni=swift-stack.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=swift-stack.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D45.150.108.59#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20-%20Tel%20Aviv%203
+vless://73ab00cc-ac90-40b2-8d32-1e1a82760296@104.16.147.16:2096?encryption=none&security=tls&sni=swift-stack.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=swift-stack.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D45.150.108.59#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20-%20Tel%20Aviv%204
+
 🇧🇷 Brazil:
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@188.164.248.80:2096?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%201
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.16.249.111:2083?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%202
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@188.164.248.219:2096?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%203
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.17.174.51:2083?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%204
-
-🇮🇩 Indonesia & 🇸🇬 Singapore (Game):
-
