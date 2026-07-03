@@ -15,7 +15,7 @@ Total Locations: --
  🇦🇺 Australia                 🇮🇩 Indonesia
  🇪🇸 Spain                     🇸🇬 Singapore                         
 ──────────────────────────────────────────────────────
-•• Subscription Version: 1.1.0 ••
+•• Subscription Version: 1.4.0 ••
 •• Last Updated: 2026-07-03 ••
 
 🇺🇸 United States of America:
@@ -130,6 +130,12 @@ vless://4c05539a-6eb3-4520-86aa-60c97babc8c8@104.17.100.53:2096?encryption=none&
 vless://4c05539a-6eb3-4520-86aa-60c97babc8c8@104.16.144.228:2083?encryption=none&security=tls&sni=turbo-bridge.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=turbo-bridge.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D81.29.149.243#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20-%20Oslo%203
 vless://4c05539a-6eb3-4520-86aa-60c97babc8c8@104.16.148.72:2087?encryption=none&security=tls&sni=turbo-bridge.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=turbo-bridge.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D81.29.149.243#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20-%20Oslo%204
 
+🇧🇪 Belgium:
+vless://2844a4d1-05ed-465d-8f09-a0020079aaac@8.35.211.97:2083?encryption=none&security=tls&sni=dark-mango.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dark-mango.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D104.155.124.198#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20-%20Brussels%201
+vless://2844a4d1-05ed-465d-8f09-a0020079aaac@104.17.103.75:2087?encryption=none&security=tls&sni=dark-mango.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dark-mango.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D104.155.124.198#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20-%20Brussels%202
+vless://2844a4d1-05ed-465d-8f09-a0020079aaac@104.17.173.213:8443?encryption=none&security=tls&sni=dark-mango.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dark-mango.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D104.155.124.198#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20-%20Brussels%203
+vless://2844a4d1-05ed-465d-8f09-a0020079aaac@104.19.32.87:2087?encryption=none&security=tls&sni=dark-mango.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dark-mango.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D104.155.124.198#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20-%20Brussels%204
+
 🇨🇭 Switzerland:
 vless://a667974f-fa4f-40ad-80e4-30a878312799@104.17.19.178:2053?encryption=none&security=tls&sni=sunny-bridge.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sunny-bridge.crystal-stone.workers.dev&path=%2Fproxyip%3D132.243.245.98#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Geneva%201
 vless://a667974f-fa4f-40ad-80e4-30a878312799@104.26.15.18:443?encryption=none&security=tls&sni=sunny-bridge.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sunny-bridge.crystal-stone.workers.dev&path=%2Fproxyip%3D132.243.245.98#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Geneva%202
@@ -137,9 +143,16 @@ vless://a667974f-fa4f-40ad-80e4-30a878312799@104.17.211.38:2096?encryption=none&
 vless://a667974f-fa4f-40ad-80e4-30a878312799@198.41.223.167:2053?encryption=none&security=tls&sni=sunny-bridge.crystal-stone.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sunny-bridge.crystal-stone.workers.dev&path=%2Fproxyip%3D132.243.245.98#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Geneva%204
 
 🇦🇪 United Arab Emirates:
+vless://24881adb-0927-4f90-8b85-9cfd61a16a49@172.67.79.79:2053?encryption=none&security=tls&sni=atlas-garden.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=atlas-garden.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D176.97.66.175#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%201
+vless://24881adb-0927-4f90-8b85-9cfd61a16a49@172.67.78.142:443?encryption=none&security=tls&sni=atlas-garden.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=atlas-garden.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D176.97.66.175#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%202
+vless://24881adb-0927-4f90-8b85-9cfd61a16a49@104.17.108.179:443?encryption=none&security=tls&sni=atlas-garden.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=atlas-garden.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D176.97.66.175#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%203
+vless://24881adb-0927-4f90-8b85-9cfd61a16a49@104.17.52.8:2096?encryption=none&security=tls&sni=atlas-garden.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=atlas-garden.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D176.97.66.175#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%204
 
 🇧🇷 Brazil:
+vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@188.164.248.80:2096?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%201
+vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.16.249.111:2083?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%202
+vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@188.164.248.219:2096?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%203
+vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.17.174.51:2083?encryption=none&security=tls&sni=comet-panel.nova-dc4fbd.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.nova-dc4fbd.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%204
 
 🇮🇩 Indonesia & 🇸🇬 Singapore (Game):
 
-🇮🇱 Israel:
