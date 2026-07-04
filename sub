@@ -169,6 +169,16 @@ vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.17.174.51:2083?encryption=none&
 vless://d4af4d7f-4953-4d17-878c-2aa9b20dbf9c@104.17.167.18:2083?encryption=none&security=tls&sni=comet-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D159.54.134.203#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20-%20Mexico%20City%201
 vless://d4af4d7f-4953-4d17-878c-2aa9b20dbf9c@104.17.168.209:8443?encryption=none&security=tls&sni=comet-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D159.54.134.203#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20-%20Mexico%20City%202
 
+🇯🇵 Japan:
+vless://5c773556-077d-4cc8-802f-600c21c78352@104.19.151.241:2096?encryption=none&security=tls&sni=crystal-vault.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=crystal-vault.velvet-cloud.workers.dev&path=%2Fproxyip%3D57.182.89.177#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%201
+vless://5c773556-077d-4cc8-802f-600c21c78352@104.19.32.62:2087?encryption=none&security=tls&sni=crystal-vault.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=crystal-vault.velvet-cloud.workers.dev&path=%2Fproxyip%3D57.182.89.177#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%202
+
+🇰🇷 South Korea:
+vless://d3e2d1b8-0ad9-4a10-8f4e-56988f2f4131@104.17.120.90:8443?encryption=none&security=tls&sni=coral-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=coral-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D85.155.176.241#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Seoul%201
+vless://d3e2d1b8-0ad9-4a10-8f4e-56988f2f4131@104.17.61.36:2083?encryption=none&security=tls&sni=coral-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=coral-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D85.155.176.241#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Seoul%202
+
 🇿🇦 South Africa:
 vless://54bf2f9d-c9a3-41bb-8312-dfe8af590015@104.18.33.189:443?encryption=none&security=tls&sni=luna-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=luna-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D84.8.142.203#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%201
 vless://54bf2f9d-c9a3-41bb-8312-dfe8af590015@104.17.181.91:2087?encryption=none&security=tls&sni=luna-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=luna-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D84.8.142.203#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%202
+
+
