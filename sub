@@ -1,22 +1,23 @@
-═══════════════════════════════════════════════════════
-      Premium V2Ray Subscription • Multi-Location      
-          High-Speed • Secure • Global Access    
-═══════════════════════════════════════════════════════
-Total Locations: 19 + 5
-
+═══════════════════════════════════════════════════════════════════════════════
+                  Premium V2Ray Subscription • Multi-Location                  
+                      High-Speed • Secure • Global Access    
+═══════════════════════════════════════════════════════════════════════════════
                            🌍 Available Locations
 
- 🇺🇸 United States                 🇪🇸 Spain                🇦🇪 United Arab Emirates
- 🇬🇧 United Kingdom                🇮🇹 Italy                🇮🇱 Israel
- 🇩🇪 Germany                       🇸🇪 Sweden               🇧🇷 Brazil
- 🇫🇷 France                        🇮🇪 Ireland              
- 🇫🇮 Finland                       🇵🇱 Poland               
- 🇳🇱 Netherlands                   🇳🇴 Norway               
- 🇨🇦 Canada                        🇧🇪 Belgium              
- 🇦🇺 Australia                     🇨🇭 Switzerland                   
+ 🇺🇸 United States                 🇪🇸 Spain                🇨🇭 Switzerland
+ 🇬🇧 United Kingdom                🇮🇹 Italy                🇦🇪 United Arab Emirates
+ 🇩🇪 Germany                       🇸🇪 Sweden               🇮🇱 Israel
+ 🇫🇷 France                        🇮🇪 Ireland              🇧🇷 Brazil
+ 🇫🇮 Finland                       🇵🇱 Poland               🇲🇽 Mexico
+ 🇳🇱 Netherlands                   🇳🇴 Norway              🇯🇵 Japan
+ 🇨🇦 Canada                        🇧🇪 Belgium             🇰🇷 South Korea
+ 🇦🇺 Australia                     🇦🇹 Austria             🇿🇦 South Africa         
 ──────────────────────────────────────────────────────────────────────────────────
-•• Subscription Version: 1.8.0 ••
+•• Subscription Version: 2.0.0 ••
 •• Last Updated: 2026-07-04 ••
+•• Total Locations: [24] •• 
+•• Total Proxies: [110] ••
+──────────────────────────────────────────────────────────────────────────────────
 
 🇺🇸 United States of America:
 (California - Los Angeles)
@@ -135,7 +136,7 @@ vless://2844a4d1-05ed-465d-8f09-a0020079aaac@104.17.103.75:2087?encryption=none&
 vless://2844a4d1-05ed-465d-8f09-a0020079aaac@104.17.173.213:8443?encryption=none&security=tls&sni=dark-mango.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dark-mango.velvet-cloud.workers.dev&path=%2Fproxyip%3D104.155.124.198#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20-%20Brussels%203
 vless://2844a4d1-05ed-465d-8f09-a0020079aaac@104.19.32.87:2087?encryption=none&security=tls&sni=dark-mango.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dark-mango.velvet-cloud.workers.dev&path=%2Fproxyip%3D104.155.124.198#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20-%20Brussels%204
 
-🇦🇹 Austria
+🇦🇹 Austria:
 vless://891ac8d5-604e-4065-8d74-fa93b33fbf29@104.16.158.197:2096?encryption=none&security=tls&sni=pearl-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pearl-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D132.243.245.178#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20Vienna%201
 vless://891ac8d5-604e-4065-8d74-fa93b33fbf29@108.162.198.63:2096?encryption=none&security=tls&sni=pearl-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pearl-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D132.243.245.178#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20Vienna%202
 vless://891ac8d5-604e-4065-8d74-fa93b33fbf29@172.67.75.0:2053?encryption=none&security=tls&sni=pearl-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pearl-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D132.243.245.178#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20Vienna%203
@@ -165,7 +166,7 @@ vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.16.249.111:2083?encryption=none
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@188.164.248.219:2096?encryption=none&security=tls&sni=comet-panel.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.velvet-cloud.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%203
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.17.174.51:2083?encryption=none&security=tls&sni=comet-panel.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.velvet-cloud.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%204
 
-🇲🇽 Mexico
+🇲🇽 Mexico:
 vless://d4af4d7f-4953-4d17-878c-2aa9b20dbf9c@104.17.167.18:2083?encryption=none&security=tls&sni=comet-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D159.54.134.203#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20-%20Mexico%20City%201
 vless://d4af4d7f-4953-4d17-878c-2aa9b20dbf9c@104.17.168.209:8443?encryption=none&security=tls&sni=comet-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D159.54.134.203#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20-%20Mexico%20City%202
 
@@ -180,5 +181,4 @@ vless://d3e2d1b8-0ad9-4a10-8f4e-56988f2f4131@104.17.61.36:2083?encryption=none&s
 🇿🇦 South Africa:
 vless://54bf2f9d-c9a3-41bb-8312-dfe8af590015@104.18.33.189:443?encryption=none&security=tls&sni=luna-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=luna-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D84.8.142.203#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%201
 vless://54bf2f9d-c9a3-41bb-8312-dfe8af590015@104.17.181.91:2087?encryption=none&security=tls&sni=luna-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=luna-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D84.8.142.203#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%202
-
 
