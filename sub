@@ -15,8 +15,8 @@ Total Locations: 19 + 5
  🇨🇦 Canada                        🇧🇪 Belgium              
  🇦🇺 Australia                     🇨🇭 Switzerland                   
 ──────────────────────────────────────────────────────────────────────────────────
-•• Subscription Version: 1.5.6 ••
-•• Last Updated: 2026-07-03 ••
+•• Subscription Version: 1.8.0 ••
+•• Last Updated: 2026-07-04 ••
 
 🇺🇸 United States of America:
 (California - Los Angeles)
@@ -164,3 +164,11 @@ vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@188.164.248.80:2096?encryption=none
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.16.249.111:2083?encryption=none&security=tls&sni=comet-panel.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.velvet-cloud.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%202
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@188.164.248.219:2096?encryption=none&security=tls&sni=comet-panel.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.velvet-cloud.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%203
 vless://f13ea069-37c2-4d46-8bbb-0e1a82f7921c@104.17.174.51:2083?encryption=none&security=tls&sni=comet-panel.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-panel.velvet-cloud.workers.dev&path=%2Fproxyip%3D38.180.78.255#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20-%20Rio%20de%20Janeiro%204
+
+🇲🇽 Mexico
+vless://d4af4d7f-4953-4d17-878c-2aa9b20dbf9c@104.17.167.18:2083?encryption=none&security=tls&sni=comet-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D159.54.134.203#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20-%20Mexico%20City%201
+vless://d4af4d7f-4953-4d17-878c-2aa9b20dbf9c@104.17.168.209:8443?encryption=none&security=tls&sni=comet-gate.velvet-cloud.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=comet-gate.velvet-cloud.workers.dev&path=%2Fproxyip%3D159.54.134.203#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20-%20Mexico%20City%202
+
+🇿🇦 South Africa:
+vless://54bf2f9d-c9a3-41bb-8312-dfe8af590015@104.18.33.189:443?encryption=none&security=tls&sni=luna-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=luna-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D84.8.142.203#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%201
+vless://54bf2f9d-c9a3-41bb-8312-dfe8af590015@104.17.181.91:2087?encryption=none&security=tls&sni=luna-vault.hidden-ocean.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=luna-vault.hidden-ocean.workers.dev&path=%2Fproxyip%3D84.8.142.203#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%202
